@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(145, 45, 140);
+    display:flex;
+    min-height:100vh;
+    flex-direction: column;
+}
+main{
+    flex: 1 0 auto;
+    background-color: green;
+}
+#page-footer{
+    top:500px;
+    padding-top:0;
+    text-align: center;
+    color:green;
+    background-color: red;
+}
+.flex-container{
+    display:flex;
+    justify-content: space-between;
+}
