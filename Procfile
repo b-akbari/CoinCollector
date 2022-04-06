@@ -1,0 +1,1 @@
+web: gunicorn coin-collector-django.wsgi
