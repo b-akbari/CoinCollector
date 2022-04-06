@@ -1,1 +1,1 @@
-web: gunicorn coin-collector-django.wsgi
+web: gunicorn coinCollector.wsgi
